@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\V1\LinkController;
+use App\Http\Controllers\V2\LinkController;
 use Illuminate\Support\Facades\Route;
 
 /*
